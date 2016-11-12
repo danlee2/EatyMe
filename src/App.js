@@ -2,7 +2,7 @@ import React, { Component } from 'react';
 
 import logo from './logo.png';
 import name from './EatyMe.png';
-import phone from './phone.png';
+import phone from './phone-full.png';
 import './App.css';
 
 class App extends Component {
