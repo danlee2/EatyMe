@@ -1,0 +1,42 @@
+# Meteor packages used by this project, one per line.
+# Check this file (and the other files in this directory) into your repository.
+#
+# 'meteor add' and 'meteor remove' will edit this file for you,
+# but you can also edit it by hand.
+
+# Meteor Core 
+meteor-base             # Packages every Meteor app needs to have
+mobile-experience       # Packages for a great mobile UX
+mongo                   # The database Meteor supports right now
+static-html    # Compile .html files into Meteor Blaze views
+reactive-var            # Reactive variable for tracker
+jquery                  # Helpful client-side library
+tracker                 # Meteor's client-side reactive programming library
+standard-minifier-css   # CSS minifier run for production mode
+standard-minifier-js    # JS minifier run for production mode
+es5-shim                # ECMAScript 5 compatibility for older browsers.
+ecmascript              # Enable ECMAScript2015+ syntax in app code
+
+# Server Publications
+peerlibrary:aws-sdk
+
+# may switch to Kadira's react-komposer package in the future
+
+# Collections
+aldeed:collection2
+reywood:publish-composite
+dburles:collection-helpers
+
+# Users
+accounts-base      
+accounts-google
+accounts-password
+percolate:google-api    
+bozhao:link-accounts
+alanning:roles  
+
+# autopublish             # Publish all data to the clients (for prototyping)
+# insecure                # Allow all DB writes from clients (for prototyping)
+kadira:flow-router
+react-meteor-data
+meteortoys:allthings

@@ -1,0 +1,15 @@
+{
+  "name": "app",
+  "private": true,
+  "scripts": {
+    "start": "meteor run"
+  },
+  "dependencies": {
+    "bcrypt": "^0.8.7",
+    "meteor-node-stubs": "~0.2.0",
+    "react-colgroup": "^1.0.2"
+  },
+  "devDependencies": {
+    "gulp-sass": "^2.3.2"
+  }
+}
