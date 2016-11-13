@@ -1,0 +1,204 @@
+{
+  "location" : {
+    "BFDB92F5-1635-41D8-AD4E-972862A94662" : {
+      "lat" : 38.8977594764396,
+      "lon" : -77.02180933061977
+    },
+    "PsLLJMGhRUSI27Oph8y7ipezcJl2" : {
+      "lat" : 38.897353,
+      "lon" : -77.021024
+    },
+    "Q4MdqLpfd8Og2knkTzvE6zEmRqt2" : {
+      "lat" : 38.89228583376142,
+      "lon" : -77.02633774923727
+    },
+    "truck1" : {
+      "lat" : 38.895821,
+      "lon" : -77.022971
+    },
+    "truck2" : {
+      "lat" : 38.894794,
+      "lon" : -77.023175
+    },
+    "truck3" : {
+      "lat" : 38.894489,
+      "lon" : -77.02192
+    },
+    "truck4" : {
+      "lat" : 38.894898,
+      "lon" : -77.021754
+    },
+    "truck5" : {
+      "lat" : 38.896135,
+      "lon" : -77.020746
+    }
+  },
+  "truck" : {
+    "BFDB92F5-1635-41D8-AD4E-972862A94662" : {
+      "imageURL" : "https://meexploringtheworld.com/image/uploads/acf6035c84038045d692b6c08a5b9899.jpg",
+      "menu" : {
+        "F6944408-884E-40F5-9CAF-71AA9F050B26" : {
+          "name" : "1",
+          "price" : 1,
+          "special" : true
+        }
+      },
+      "name" : "Truck Name",
+      "open" : false
+    },
+    "PsLLJMGhRUSI27Oph8y7ipezcJl2" : {
+      "imageURL" : "https://meexploringtheworld.com/image/uploads/d28627aec1cf11788341017e92fd6bd5.jpg",
+      "menu" : {
+        "94A64ED9-603F-482A-97CA-7BC0832CE09E" : {
+          "name" : "popcorn",
+          "price" : 5,
+          "special" : true
+        }
+      },
+      "name" : "Jack And John",
+      "open" : false
+    },
+    "Q4MdqLpfd8Og2knkTzvE6zEmRqt2" : {
+      "imageURL" : "https://meexploringtheworld.com/image/uploads/f24b72c62b73b7c85a7c2dfe4e363518.jpg",
+      "menu" : {
+        "8C01D2E3-1938-4E2E-B213-0FDD6E361F4C" : {
+          "name" : "Taco",
+          "price" : 3,
+          "special" : true
+        },
+        "DE691E0E-CAEF-4B84-BC22-E9C9A56529D9" : {
+          "name" : "water",
+          "price" : 1,
+          "special" : false
+        }
+      },
+      "name" : "Hackital",
+      "open" : false
+    },
+    "truck1" : {
+      "imageURL" : "http://bayzest.com/wp-content/uploads/2012/06/Caseys-Pizza-Food-Truck-3.jpg",
+      "menu" : {
+        "food1" : {
+          "name" : "pepsi",
+          "price" : 1,
+          "special" : false
+        }
+      },
+      "name" : "Taco Me",
+      "open" : false
+    },
+    "truck2" : {
+      "imageURL" : "https://s-media-cache-ak0.pinimg.com/originals/d9/76/d8/d976d8a7199c0d4f1083c06be29e991a.jpg",
+      "menu" : {
+        "food1" : {
+          "name" : "pulled pork sandwhich",
+          "price" : 4,
+          "special" : true
+        }
+      },
+      "name" : "BBQ DC",
+      "open" : false
+    },
+    "truck3" : {
+      "imageURL" : "http://pas-wordpress-media.s3.amazonaws.com/wp-content/uploads/2014/02/Keeping-Your-Food-Truck-Business-Rolling.jpg",
+      "menu" : {
+        "food1" : {
+          "name" : "pepsi",
+          "price" : 1
+        },
+        "food2" : {
+          "name" : "chicken curry",
+          "price" : 5
+        },
+        "food3" : {
+          "name" : "lamb curry",
+          "price" : 6
+        },
+        "food4" : {
+          "name" : "Chicken Jalfarazi",
+          "price" : 6
+        },
+        "food5" : {
+          "name" : "Green Pea Curry",
+          "price" : 4
+        },
+        "food6" : {
+          "name" : "Chicken Kabob",
+          "price" : 4,
+          "special" : true
+        }
+      },
+      "name" : "Kabob Central",
+      "open" : false
+    },
+    "truck4" : {
+      "imageURL" : "http://www.bostonfoodtruckblog.com/wp-content/uploads/2015/07/best-food-truck-skins.jpg",
+      "menu" : {
+        "food1" : {
+          "name" : "Jerk Chicken Sandwhich",
+          "price" : 4
+        },
+        "food2" : {
+          "name" : "Curry Chicken",
+          "price" : 5
+        },
+        "food3" : {
+          "name" : "OxTail Stew",
+          "price" : 5,
+          "special" : true
+        },
+        "food4" : {
+          "name" : "Fruit Smoothie",
+          "price" : 3
+        },
+        "food5" : {
+          "name" : "Curry Shrimp",
+          "price" : 4
+        },
+        "food6" : {
+          "name" : "Curry Goat",
+          "price" : 6
+        }
+      },
+      "name" : "Jamaican Jerk",
+      "open" : false
+    },
+    "truck5" : {
+      "imageURL" : "https://s-media-cache-ak0.pinimg.com/originals/60/ea/fb/60eafbae8bbc254cd314ab46d82cfd65.jpg",
+      "menu" : {
+        "food1" : {
+          "name" : "soda",
+          "price" : 1
+        },
+        "food2" : {
+          "name" : "Cheese Pizza (1 Slice)",
+          "price" : 2
+        },
+        "food3" : {
+          "name" : "Supreme Pizza (1 Slice)",
+          "price" : 3
+        },
+        "food4" : {
+          "name" : "Meat Lovers Pizza (1 Slice)",
+          "price" : 3
+        },
+        "food5" : {
+          "name" : "Veggie Pizza (1 Slice)",
+          "price" : 2
+        },
+        "food6" : {
+          "name" : "Hawaiian Pizza (1 Slice)",
+          "price" : 2,
+          "special" : true
+        }
+      },
+      "name" : "Dangerous Pizza",
+      "open" : false
+    }
+  },
+  "uid" : {
+    "PsLLJMGhRUSI27Oph8y7ipezcJl2" : "PsLLJMGhRUSI27Oph8y7ipezcJl2",
+    "Q4MdqLpfd8Og2knkTzvE6zEmRqt2" : "Q4MdqLpfd8Og2knkTzvE6zEmRqt2",
+    "eZNPX4L3OCPvF9cHH3fzyYsudms1" : "eZNPX4L3OCPvF9cHH3fzyYsudms1"
+  }
+}
