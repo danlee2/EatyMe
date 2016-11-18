@@ -3,6 +3,7 @@ import React, { Component } from 'react';
 import logo from './logo.png';
 import name from './EatyMe.png';
 import phone from './phone-full2.png';
+
 import './App.css';
 
 class App extends Component {
@@ -10,10 +11,10 @@ class App extends Component {
     return (
       <div className="App">
         <div className="App-header">
-          <h1 id='eatyme' href='#'>
+          <h1 id='eatyme' href='http://eatyme.com'>
             <img className='logo-name' src={name} />
           </h1>
-          <img src={logo} className="App-logo" alt="logo" href='#' />
+          <img src={logo} className="App-logo" alt="logo" href='http://eatyme.com' />
           <div className='intro'>
             <p className="App-intro">
               Instantly find your favorite food trucks 
@@ -25,7 +26,7 @@ class App extends Component {
               <br /> create your own app.
               <br />
               <div className='buttons'>
-                <button className="button-docs">
+                <button className="button-docs" onClick="window.open('https://github.com/danlee2/EatyMe')">
                   DOCS
                 </button>
                 <button className="button-get-app">
@@ -48,6 +49,5 @@ class App extends Component {
     );
   }
 }
-
 
 export default App;
