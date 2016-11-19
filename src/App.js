@@ -1,8 +1,10 @@
 import React, { Component } from 'react';
 
+import appStore from './AppStoreButton.gif';
 import logo from './logo.png';
 import name from './EatyMe.png';
 import phone from './phone-full2.png';
+import playStore from './PlayStoreButton.gif';
 
 import './App.css';
 
@@ -12,9 +14,9 @@ class App extends Component {
       <div className="App">
         <div className="App-header">
           <h1 id='eatyme' href='http://eatyme.com'>
-            <img className='logo-name' src={name} />
+            <img className='logo-name' src={name} role='presentation' />
           </h1>
-          <img src={logo} className="App-logo" alt="logo" href='http://eatyme.com' />
+          <img src={logo} className="App-logo" alt="logo" href='http://eatyme.com' role='presentation' />
           <div className='intro'>
             <p className="App-intro">
               Instantly find your favorite food trucks 
@@ -29,9 +31,15 @@ class App extends Component {
                 <button className="button-docs" onClick="window.open('https://github.com/danlee2/EatyMe')">
                   DOCS
                 </button>
-                <button className="button-get-app">
+                <button className='button-get-app'>
                   GET APP
                 </button>
+                {/* 
+                <div classNames='stores'>
+                  <input type="image" src={appStore} className="appStore" />
+                  <input type="image" src={playStore} className="playStore" />
+                </div>
+                */}
               </div>
               <br/>
               <p className='footer'>
@@ -42,7 +50,7 @@ class App extends Component {
         </div>
         <div>
           <br />
-          <img className='phone' src={phone} />
+          <img className='phone' src={phone} role='presentation' />
           
         </div>
       </div>

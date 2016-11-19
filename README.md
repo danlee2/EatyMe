@@ -1,5 +1,5 @@
 <div align='center'>
-  <img src='landing-page-screenshot.png' />
+  <img src='landing-page-screenshot.png' role='presentation' />
 </div>
 
 
