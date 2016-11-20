@@ -8,3 +8,5 @@
 [Dev Post](https://devpost.com/software/eaty-me)
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
+
+© _2016 Eaty Me™ . Made in 24 Hours with_ ♡

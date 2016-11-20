@@ -43,7 +43,7 @@ class App extends Component {
               </div>
               <br/>
               <p className='footer'>
-                	&copy; <i> 2016 Eaty Me. Made in 24 Hours with</i> &#x2661;
+                	&copy; <i> 2016 Eaty Me&trade; . Made in 24 Hours with</i> &#x2661;
               </p>
             </p>
           </div>
