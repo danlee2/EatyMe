@@ -36,14 +36,6 @@
   cursor: pointer;
 }
 
-.github-ribbon {
-  height: 18%; 
-  position: absolute; 
-  top: 0; 
-  right: 0; 
-  border: 0; 
-}
-
 .App-intro {
   font-size: xx-large;
   color: white;
@@ -61,7 +53,7 @@
   margin-bottom: 0px;
 }
 
-.buttons, .stores {
+.buttons {
   text-align: center;
 }
 
