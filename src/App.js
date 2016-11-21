@@ -27,8 +27,9 @@ class App extends Component {
             <p className="App-intro">
               Instantly find your favorite food trucks 
               <br />that are open right now and closest 
-              <br />to where you are. just open the app  
+              <br />to where you are. just open the app 
               <br />and go. no sign in required. 
+              <br />
               <br />
               <br />
               <div className='buttons'>
@@ -40,8 +41,6 @@ class App extends Component {
                 </button>
               </div>
               <br/>
-              <br />
-              <br />
               <p className='footer'>
                 	&copy; <i> 2016 Eaty Me&trade; . Made in 24 Hours with</i> &#x2661;
               </p>
