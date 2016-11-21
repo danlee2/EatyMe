@@ -33,10 +33,10 @@ class App extends Component {
               <br />
               <div className='buttons'>
                 <button className="button-docs">
-                  DOCS
+                  iOS
                 </button>
                 <button className='button-get-app'>
-                  GET APP
+                  Android
                 </button>
                 {/* 
                 <div classNames='stores'>
