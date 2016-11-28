@@ -12,7 +12,7 @@ class App extends Component {
       <div className="App">
         <div className="App-header">
           <h1 id='eatyme' href='http://eatyme.com'>
-            {/* do not forget to add trademark symbol to image */}
+            {/* shayan: do not forget to add trademark symbol to image */}
             <img className='logo-name' src={name} role='presentation' />
           </h1>
           <img src={logo} className="App-logo" alt="logo" href='http://eatyme.com' role='presentation' />
